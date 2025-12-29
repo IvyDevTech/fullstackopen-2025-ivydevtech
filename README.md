@@ -21,7 +21,7 @@
 
 ## Cómo Usar
 
-- Clona el repo: `git clone https://github.com/tuusuario/fullstackopen-2025-tunombre.git`
+- Clona el repo: `git clone https://github.com/IvyDevTech/fullstackopen-2025-ivydevtech.git`
 - Abre en VS Code y explora los .md en `part0/` para ver diagramas interactivos.
 
 ## Notas
